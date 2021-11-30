@@ -5,6 +5,7 @@
 /frontend/tmp
 /frontend/out-tsc
 
+
 # dependencies
 /frontend/node*
 /frontend/node_modules
